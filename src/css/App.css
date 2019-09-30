@@ -1,0 +1,12 @@
+.App{text-align: center;}
+.wrap_fix{width:1200px; position: relative; display: inline-block; vertical-align: middle; text-align: left;}
+.header{height: 60px; border-bottom: 1px solid #ccc; box-shadow:0px,1px,3px, rgba(0,0,0,0.3);}
+.header h1{float: left; color:#990000; font-size: 18px; line-height: 60px; width:200px; text-align: center; }
+.header ul.gnb{float: left; margin-left: 50px; margin-right: 50px;}
+.header ul.gnb li{float: left; }
+.header ul.gnb li a{display: inline-block; vertical-align: middle; line-height: 60px; text-align: center; padding:0 50px; }
+.header .wrap_fix div{float: left;}
+.header .searchBox{text-align: center;}
+.header .searchBox input{margin-top: 20px;}
+.header .addBox{margin-left: 20px;}
+.header .addBox button{margin-top: 20px;}
