@@ -2,9 +2,9 @@ import React from 'react';
 import LeftNav from "./LeftNav";
 import PageName from "../pages/Main";
 
-function BodyContents({page}) {
+function BodyContents() {
   return (
-    <section className="body_wrap">
+    <section className="body_wrap wrap_fix">
         <div className="body_left_wrap">
             <LeftNav />
         </div>
